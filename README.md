@@ -1,5 +1,6 @@
-<h1 align="center">Markdown2Html</h1>
-<div align="center">
+<h1>Markdown2Html</h1>
+<h2>在线将Markdown转换为HTML。</h2>
+<div>
 <a href="http://md.aizhuanqian.online">
 <img width="500" src="./screenshot.png"/>
 </a>
@@ -17,7 +18,7 @@
 
 ## 说明
 - 原作地址中的在线站点挂了，这里删除了代码中的无效链接，并重新部署了一个在线站点。
-- [在线使用](https://tool.0000929.xyz/markdown2html/)
+- 欢迎[在线使用](https://tool.0000929.xyz/markdown2html/)。
 
 ## 原地址
 - https://github.com/TaleAi/markdown2html

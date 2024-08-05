@@ -1,9 +1,10 @@
+<h1 align="center">Markdown2Html</h1>
 <div align="center">
 <a href="http://md.aizhuanqian.online">
 <img width="500" src="./screenshot.png"/>
 </a>
 </div>
-<h1 align="center">Markdown2Html</h1>
+
 
 ## 简介
 
@@ -14,11 +15,9 @@
 - 支持导出pdf和markdown
 
 
-## 主题
+## 说明
+- 原作地址中的在线站点挂了，这里删除了代码中的无效链接，并重新部署了一个在线站点。
+- [在线使用](https://tool.0000929.xyz/markdown2html/)
 
-> 欢迎提交主题，提供更多文章示例~~
-
-## 友情链接
-
-- [markdown nice](https://mdnice.com/)：markdown nice
-- 欢迎[在线使用](http://md.aizhuanqian.online/)
+## 原地址
+- https://github.com/TaleAi/markdown2html
